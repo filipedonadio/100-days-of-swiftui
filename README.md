@@ -12,4 +12,4 @@ The course is focused on building many different kinds of apps and solving pract
 
 | Projects & Challenges                 | Topics                               |
 |:------------------------------------- |:------------------------------------ |
-| [Project 1 - WeSplit](/01 _Project_1) | Form, NavigationView, @State, Picker |
+| [Project 1 - WeSplit](01 _Project_1) | Form, NavigationView, @State, Picker |
