@@ -1,6 +1,6 @@
-# 100 Days Of SwiftUI
+# 100 Days of SwiftUI
 
-Projects and solutions to the challenges of the 100 Days of SwiftUI Course.
+Projects and solutions to the challenges of the [100 Days of SwiftUI](https://www.hackingwithswift.com/100/swiftui) Course.
 
 ## Why I'm taking this course
 
