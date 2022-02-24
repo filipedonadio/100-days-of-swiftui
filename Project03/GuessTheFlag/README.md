@@ -1,5 +1,7 @@
 # Project 2 - Guess the Flag
 
+A simple Guess the Flag game.
+
 ## Topics
 
 VStack, HStack, ZStack, Image, LinearGradient

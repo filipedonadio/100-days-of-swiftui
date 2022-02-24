@@ -1,5 +1,7 @@
 # Challenge 1 - Temperature Converter
 
+An app that handles temperature conversion: users choose Celsius, Fahrenheit, or Kelvin.
+
 ## Topics
 
 MeasurementFormatter, Form, NavigationView, @State, Picker

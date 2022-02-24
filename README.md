@@ -8,10 +8,23 @@ I believe this course is an extremely effective way of learning the latest techn
 
 The course is focused on building many different kinds of apps and solving practical challenges by writing your own code, which is one of the best strategies to actually learn.
 
-## Browse the projects
+## Browse Projects & Challenges
 
-| Projects & Challenges                                    | Topics                                        |
-|:-------------------------------------------------------- |:--------------------------------------------- |
-| [Project 1 - WeSplit](/01_Project_1/WeSplit)             | Form, NavigationView, @State, Picker          |
-| [Challenge 1 - Converter](/02_Challenge_1/Converter)     | MeasurementFormatter                          |
-| [Project 2 - Guess the Flag](/03_Project_2/GuessTheFlag) | VStack, HStack, ZStack, Image, LinearGradient |
+### [1. WeSplit](/Project01/WeSplit/)
+
+A check-sharing app that calculates how to split a check based on the number of people and how much tip you want to leave.
+
+**Topics:** Form, NavigationView, @State, Picker
+
+### [2. Temperature Converter](/Project02/Converter/)
+
+An app that handles temperature conversion: users choose Celsius, Fahrenheit, or Kelvin.
+
+**Topics:** MeasurementFormatter
+
+
+### [3. Guess the Flag](/Project03/GuessTheFlag/)
+
+A simple Guess the Flag game.
+
+**Topics:** VStack, HStack, ZStack, Image, LinearGradient
