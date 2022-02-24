@@ -14,17 +14,22 @@ The course is focused on building many different kinds of apps and solving pract
 
 A check-sharing app that calculates how to split a check based on the number of people and how much tip you want to leave.
 
-**Topics:** Form, NavigationView, @State, Picker
+**Topics:** Form, NavigationView, @State, Picker.
 
 ### [2. Temperature Converter](/Project02/Converter/)
 
 An app that handles temperature conversion: users choose Celsius, Fahrenheit, or Kelvin.
 
-**Topics:** MeasurementFormatter
-
+**Topics:** MeasurementFormatter.
 
 ### [3. Guess the Flag](/Project03/GuessTheFlag/)
 
 A simple Guess the Flag game.
 
-**Topics:** VStack, HStack, ZStack, Image, LinearGradient
+**Topics:** VStack, HStack, ZStack, Image, LinearGradient.
+
+### [4. Rock, Paper, Scissors](/Project04/RockPaperScissors/)
+
+A brain game based on Rock, Paper, Scissors.
+
+**Topics:** @State, VStack, HStack, Spacer.
