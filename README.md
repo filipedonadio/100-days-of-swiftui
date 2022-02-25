@@ -39,3 +39,9 @@ A brain game based on Rock, Paper, Scissors.
 An app to help coffee drinkers get a good night’s sleep.
 
 **Topics:** CoreML, Create ML, Stepper, DatePicker, DateFormatter, DateComponents.
+
+### [6. WordScramble](/Project06/WordScramble/)
+
+The game will show players a random eight-letter word, and ask them to make words out of it.
+
+**Topics:** List, onAppear(), Bundle, fatalError(), UITextChecker.
