@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		5A29FC7D27CE2A1600453016 /* FormatStyle-LocalCurrency.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5A29FC7C27CE2A1600453016 /* FormatStyle-LocalCurrency.swift */; };
 		5AEBAF7427CCCC0000AE38A7 /* iExpenseApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5AEBAF7327CCCC0000AE38A7 /* iExpenseApp.swift */; };
 		5AEBAF7627CCCC0000AE38A7 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5AEBAF7527CCCC0000AE38A7 /* ContentView.swift */; };
 		5AEBAF7827CCCC0100AE38A7 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 5AEBAF7727CCCC0100AE38A7 /* Assets.xcassets */; };
@@ -17,6 +18,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		5A29FC7C27CE2A1600453016 /* FormatStyle-LocalCurrency.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "FormatStyle-LocalCurrency.swift"; sourceTree = "<group>"; };
 		5AEBAF7027CCCC0000AE38A7 /* iExpense.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = iExpense.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		5AEBAF7327CCCC0000AE38A7 /* iExpenseApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = iExpenseApp.swift; sourceTree = "<group>"; };
 		5AEBAF7527CCCC0000AE38A7 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -62,6 +64,7 @@
 				5AEBAF7327CCCC0000AE38A7 /* iExpenseApp.swift */,
 				5AEBAF7527CCCC0000AE38A7 /* ContentView.swift */,
 				5AEBAF8827CCDB7400AE38A7 /* AddView.swift */,
+				5A29FC7C27CE2A1600453016 /* FormatStyle-LocalCurrency.swift */,
 				5AEBAF8427CCD75100AE38A7 /* ExpenseItem.swift */,
 				5AEBAF8627CCD79B00AE38A7 /* Expenses.swift */,
 				5AEBAF7727CCCC0100AE38A7 /* Assets.xcassets */,
@@ -151,6 +154,7 @@
 				5AEBAF8727CCD79B00AE38A7 /* Expenses.swift in Sources */,
 				5AEBAF7627CCCC0000AE38A7 /* ContentView.swift in Sources */,
 				5AEBAF8927CCDB7400AE38A7 /* AddView.swift in Sources */,
+				5A29FC7D27CE2A1600453016 /* FormatStyle-LocalCurrency.swift in Sources */,
 				5AEBAF8527CCD75100AE38A7 /* ExpenseItem.swift in Sources */,
 				5AEBAF7427CCCC0000AE38A7 /* iExpenseApp.swift in Sources */,
 			);
