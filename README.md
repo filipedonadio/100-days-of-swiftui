@@ -45,3 +45,9 @@ An app to help coffee drinkers get a good night’s sleep.
 The game will show players a random eight-letter word, and ask them to make words out of it.
 
 **Topics:** List, onAppear(), Bundle, fatalError(), UITextChecker.
+
+### [7. iExpense](/Project07/iExpense/)
+
+An expense tracker that separates personal costs from business costs.
+
+**Topics:** @StateObject, sheet(), onDelete(), @ObservedObject, Identifiable, @Published, sheet(), Codable, UserDefaults.
