@@ -20,6 +20,7 @@
 		5A24ECAC27CFC8FA001FAA17 /* MissionView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5A24ECAB27CFC8FA001FAA17 /* MissionView.swift */; };
 		5ADE7D1027CFD1910031DBDD /* AstronautView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5ADE7D0F27CFD1910031DBDD /* AstronautView.swift */; };
 		5AF8D31C27D0B85D00EE266F /* CustomDivider.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5AF8D31B27D0B85D00EE266F /* CustomDivider.swift */; };
+		5AF8D31E27D0B98100EE266F /* CrewRoster.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5AF8D31D27D0B98100EE266F /* CrewRoster.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -38,6 +39,7 @@
 		5A24ECAB27CFC8FA001FAA17 /* MissionView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MissionView.swift; sourceTree = "<group>"; };
 		5ADE7D0F27CFD1910031DBDD /* AstronautView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AstronautView.swift; sourceTree = "<group>"; };
 		5AF8D31B27D0B85D00EE266F /* CustomDivider.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomDivider.swift; sourceTree = "<group>"; };
+		5AF8D31D27D0B98100EE266F /* CrewRoster.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CrewRoster.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -74,6 +76,7 @@
 				5A24EC9227CF73A3001FAA17 /* ContentView.swift */,
 				5A24ECAB27CFC8FA001FAA17 /* MissionView.swift */,
 				5ADE7D0F27CFD1910031DBDD /* AstronautView.swift */,
+				5AF8D31D27D0B98100EE266F /* CrewRoster.swift */,
 				5AF8D31B27D0B85D00EE266F /* CustomDivider.swift */,
 				5A24ECA327CFB616001FAA17 /* Astronaut.swift */,
 				5A24ECA727CFB84F001FAA17 /* Mission.swift */,
@@ -171,6 +174,7 @@
 				5A24ECAC27CFC8FA001FAA17 /* MissionView.swift in Sources */,
 				5A24ECA427CFB616001FAA17 /* Astronaut.swift in Sources */,
 				5ADE7D1027CFD1910031DBDD /* AstronautView.swift in Sources */,
+				5AF8D31E27D0B98100EE266F /* CrewRoster.swift in Sources */,
 				5A24ECAA27CFBEB1001FAA17 /* Color-Theme.swift in Sources */,
 				5A24EC9327CF73A3001FAA17 /* ContentView.swift in Sources */,
 				5A24EC9127CF73A3001FAA17 /* MoonshotApp.swift in Sources */,
