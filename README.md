@@ -51,3 +51,9 @@ The game will show players a random eight-letter word, and ask them to make word
 An expense tracker that separates personal costs from business costs.
 
 **Topics:** @StateObject, sheet(), onDelete(), @ObservedObject, Identifiable, @Published, sheet(), Codable, UserDefaults.
+
+### [8. Moonshot](/Project08/Moonshot/)
+
+An app that lets users learn about the missions and astronauts that formed NASA’s Apollo space program.
+
+**Topics:** Codable, GeometryReader, ScrollView, NavigationLink.
