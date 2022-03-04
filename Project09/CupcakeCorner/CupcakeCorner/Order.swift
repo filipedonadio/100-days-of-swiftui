@@ -28,10 +28,6 @@ class SharedOrder: ObservableObject {
 }
 
 struct Order: Codable {
-    enum CodingKeys: CodingKey {
-        case type, quantity, extraFrosting, addSprinkles, name, streetAddress, city, zip
-    }
-
     var type = 0
     var quantity = 3
 
