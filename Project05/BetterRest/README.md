@@ -1,4 +1,4 @@
-#  BetterRest
+# BetterRest
 
 An app to help coffee drinkers get a good night’s sleep by asking them three questions:
 
